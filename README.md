@@ -52,6 +52,17 @@ Naive Bayes classifier with TF-IDF vectorization for SMS/email spam classificati
 
 ---
 
+### 5. Week 1 — ML Fundamentals (archived)
+**Folder:** `archive/ml-programs/week-1/`
+
+Merged from [ML-Programs](https://github.com/ssahilkhan/ML-Programs). Implementation of the FIND-S algorithm with and without libraries, data efficiency evaluation, and a sports/weather application.
+
+**Files:** `finds_efficiency_evaluator.py`, `finds_with_lib.py`, `finds_without_lib.py`, `training_data_*.csv`, `Applications/sports.py`, `Applications/sports_weather.csv`
+
+**Tech:** Python, NumPy
+
+---
+
 ## Getting Started
 
 Each project has its own `README.md` and `requirements.txt` with setup instructions. Navigate into any project folder and follow its guide:
